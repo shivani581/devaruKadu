@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409088736866",
+    "project_id": "devara-kadu",
+    "storage_bucket": "devara-kadu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409088736866:android:3fb3058550e4784b735b3b",
+        "android_client_info": {
+          "package_name": "com.example.devarakadu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxEJKyFtNMB7O9Dm5JhPhSwdhLyZ0IUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
